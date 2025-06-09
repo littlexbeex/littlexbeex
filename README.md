@@ -49,3 +49,5 @@ These experiences weren’t part of a class or job — I pursued them out of pur
 ## 📌 Note
 
 This repo is a retrospective log. The original files, firmware, and source code are long gone — but the lessons and mindset still shape how I approach engineering today.
+
+#systems #embedded #earlyproject
