@@ -51,3 +51,25 @@ These experiences weren’t part of a class or job — I pursued them out of pur
 This repo is a retrospective log. The original files, firmware, and source code are long gone — but the lessons and mindset still shape how I approach engineering today.
 
 #systems #embedded #earlyproject
+
+# 👾 Welcome to my world — Weng
+
+I’m the kind of guy who configures pfSense before brushing his teeth.  
+曾經為了一個小 bug debug 到凌晨三點，也曾在夢裡夢到 Linux log。
+
+🧠 Interests:  
+- System architecture and network design  
+- AI model optimization & Edge AI deployment  
+- Linux server tinkering  
+- Cybersecurity and "breaking to learn" mindset
+
+💼 Mission:  
+To bridge robust system infrastructure with cutting-edge AI applications,  
+and to prove that even the most unconventional minds can change the game.
+
+---
+
+> "I’m not here to be normal. I’m here to be **inevitable**."  
+> — 也許是我自己說的 😏
+
+📫 Contact: [q85028502@gmail.com]
